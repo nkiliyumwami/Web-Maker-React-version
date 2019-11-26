@@ -1,0 +1,23 @@
+{
+  "name": "web-maker-react-version",
+  "version": "1.0.0",
+  "description": "Msimbo BootCamp Assignment 3. React:\r In this assignement we were learning the basic of React\r We covered everything from the props, components, state, event handlers...",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkiliyumwami/Web-Maker-React-version.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkiliyumwami/Web-Maker-React-version/issues"
+  },
+  "homepage": "https://github.com/nkiliyumwami/Web-Maker-React-version#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
