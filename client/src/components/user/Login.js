@@ -50,7 +50,8 @@ export default function Login(props) {
         <Link className="btn btn-success btn-block" to="/register">
           Register
         </Link>
+      
       </form>
     </div>
-  );
-}
+  )
+          }
