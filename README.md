@@ -1,4 +1,3 @@
 # Web-Maker-React version
-Msimbo BootCamp Assignment 3. React:
-In this assignement we were learning the basic of React
-We covered everything from the props, components, state, event handlers...
+Msimbo BootCamp Assignment : 
+A continuation of web maker app with react server side and deployment to heroku
