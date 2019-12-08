@@ -52,6 +52,14 @@ function App() {
       firstName: "Shiyu",
       lastName: "Wang",
       email: "swang@ulem.org"
+    },
+    {
+      _id: "789",
+      username: "papi",
+      password: "papi",
+      firstName: "Papi",
+      lastName: "Papito",
+      email: "papipapito@gmail.com"
     }
   ]);
 
